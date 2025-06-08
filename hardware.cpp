@@ -6,7 +6,7 @@
 const char* ssid = "cyrusbyte";
 const char* password = "cyrusbyte";
 
-const char* scriptURL = "https://script.google.com/macros/s/AKfycbzAtwlRRL5uWCn5sN3W68VAswuBVb_8RkaxV5EiDyLdKynsQFeImq6HLCoj2b5AXO0R/exec";
+const char* scriptURL = "your-app-script-URL";
 
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
